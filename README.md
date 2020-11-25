@@ -5,5 +5,5 @@ This is Vibhuti, from India. I have an immense interest in Data Science, Machine
 I have a work ex of 5 years working as a Business Analyst. 
 Apart from coding I love Yoga and reading. I have won three various yoga competitions. I like keeping myself fit and spread awareness in fitness.
 
-
+![Uploading daynightgiffy.gif…]()
 How to reach me: vibhutimayekar@gmail.com
